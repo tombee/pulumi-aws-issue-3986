@@ -2,8 +2,8 @@
 
 - [ISSUE-3986](https://github.com/pulumi/pulumi-aws/issues/3986)
 
-The `dev` stack is used to stage resources for repro.
-The `repro` stack is used for importing staged resources back into a new stack and reproducing the issue
+* The `dev` stack is used to stage resources for repro
+* The `repro` stack is used for importing staged resources back into a new stack and reproducing the issue
 
 ## Usage
 
